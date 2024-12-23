@@ -24,7 +24,7 @@ const restaurants = [
         image: 'img/food-band/preview.jpg'
     },
         {
-        name: 'Ikigai',
+        name: 'Ікігай',
         time: '55 хвилин',
         rating: 4.5,
         price: '250',
